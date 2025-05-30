@@ -1,9 +1,9 @@
 plugins {
-    alias(libs.plugins.kotlin.jvm)
+    alias(aoc2019Libs.plugins.kotlin.jvm)
 }
 
 dependencies {
-    api(project(":utils"))
+    api(project(":aoc-utils"))
 
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")

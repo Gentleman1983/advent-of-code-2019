@@ -29,7 +29,7 @@ To run all solutions, simply run `./gradlew run`. If you want to run the solutio
 | 5       | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
 | 6       | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
 | 7       | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
-| 8       | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
+| 8       | ⭐ ![Java](img/java.png)                               | ⭐ ![Java](img/java.png)     |
 | 9       | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
 | 10      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
 | 11      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)     |
